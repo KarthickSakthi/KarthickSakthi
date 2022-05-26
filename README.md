@@ -23,7 +23,7 @@
 
 <table>
   <tr>
-    <td ><img align="bottom" style="width:50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=KarthickSakthi&show_icons=true&locale=en&layout=compact" alt="Karthick-S" /></td>
-    <td ><img  style="width:50%" src="https://github-readme-stats.vercel.app/api?username=KarthickSakthi&show_icons=true&locale=en" alt="Karthick-S"/> </td>
+    <td style="width:100%"><img align="bottom" style="width:50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=KarthickSakthi&show_icons=true&locale=en&layout=compact" alt="Karthick-S" /></td>
+    <td style="width:100%"><img  style="width:50%" src="https://github-readme-stats.vercel.app/api?username=KarthickSakthi&show_icons=true&locale=en" alt="Karthick-S"/> </td>
   </tr>
 </table>
