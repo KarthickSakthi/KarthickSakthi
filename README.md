@@ -19,11 +19,11 @@
   
 
 
-<div align="left">
+
   <div style="display: flex;">
     <img align="bottom" style="width:50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=KarthickSakthi&show_icons=true&locale=en&layout=compact" alt="Karthick-S" />
 
 &nbsp;<img  style="width:50%" src="https://github-readme-stats.vercel.app/api?username=KarthickSakthi&show_icons=true&locale=en" alt="Karthick-S"/> 
 
   </div>
-</div>
+
