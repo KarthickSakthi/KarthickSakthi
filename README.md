@@ -11,7 +11,7 @@
 
 <a href="https://www.linkedin.com/in/karthick-s-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Karthick-S" height="30" width="40" /></a>
 
- <img align="right" alt="GIF" src="https://raw.githubusercontent.com/KarthickSakthi/KarthickSakthi/master/Let'scode.gif" width="500" height="320" />
+ <img align="center" alt="GIF" src="https://raw.githubusercontent.com/KarthickSakthi/KarthickSakthi/master/Let'scode.gif" width="500" height="320" />
 
 ### Tools & Technology 🛠
 
@@ -21,5 +21,5 @@
 <p><img align="bottom" src="https://github-readme-stats.vercel.app/api/top-langs?username=KarthickSakthi&show_icons=true&locale=en&layout=compact" alt="Karthick-S" /></p>
  
 ### 📊 My Github Stats
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=KarthickSakthi&show_icons=true&locale=en" alt="Karthick-S"/> </p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=KarthickSakthi&show_icons=true&locale=en" alt="Karthick-S"/> </p>
 </div> 
