@@ -20,7 +20,7 @@
 
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
-   <img style="height:20rem;" src="https://github-readme-stats.vercel.app/api/top-langs?username=KarthickSakthi&show_icons=true&locale=en&layout=compact" alt="Karthick-S" />
-  <img style="height:20rem;"  src="https://github-readme-stats.vercel.app/api?username=KarthickSakthi&show_icons=true&locale=en" alt="Karthick-S"/>
+   <img style="height:5rem;" src="https://github-readme-stats.vercel.app/api/top-langs?username=KarthickSakthi&show_icons=true&locale=en&layout=compact" alt="Karthick-S" />
+  <img style="height:5rem;"  src="https://github-readme-stats.vercel.app/api?username=KarthickSakthi&show_icons=true&locale=en" alt="Karthick-S"/>
   </div>
 </div>
