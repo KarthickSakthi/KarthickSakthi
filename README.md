@@ -11,7 +11,7 @@
 
 <a href="https://www.linkedin.com/in/karthick-s-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Karthick-S" height="30" width="40" /></a>
 
-<p align="center" > <img  width="500" height="310" alt="GIF" src="https://raw.githubusercontent.com/KarthickSakthi/KarthickSakthi/master/Let'scode.gif"/></p>
+<p align="center" > <img  width="600" height="330" alt="GIF" src="https://raw.githubusercontent.com/KarthickSakthi/KarthickSakthi/master/Let'scode.gif"/></p>
 
 ### Tools & Technology 🛠
 
