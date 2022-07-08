@@ -21,7 +21,7 @@
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
    <img style="height:10rem;" src="https://github-readme-stats.vercel.app/api/top-langs?username=KarthickSakthi&show_icons=true&locale=en&layout=compact" alt="Karthick-S" />
-  <img style="height:10rem;"  src="https://github-readme-stats.vercel.app/api?username=KarthickSakthi&show_icons=true&locale=en" alt="KarthickSakthi"/>
+  <img style="height:10rem;"  src="https://github-readme-stats.vercel.app/api?username=Karthick-S&show_icons=true&locale=en" />
 
   </div>
   
