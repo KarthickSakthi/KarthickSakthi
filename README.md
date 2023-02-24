@@ -1,5 +1,5 @@
 ### Hi there 👋! I'm Karthick
-### A Passionate Frontend and Dapp Developer
+### OpenSource Web2 and Web3 Contributor, Frontend and Dapp Developer
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=KarthickSakthi&label=Profile%20views&color=0e75b6&style=flat" alt="Karthick-S" /> -->
 
